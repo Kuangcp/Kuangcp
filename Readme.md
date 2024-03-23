@@ -1,5 +1,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=kuangcp&show_icons=true&theme=vue" alt="Kuangcp's github stats"  />
-<img src="https://github-profile-trophy.vercel.app/?username=kuangcp&theme=flat&column=7&margin-w=10" alt="logo" height="194" />
+<img src="https://github-profile-trophy.vercel.app/?username=kuangcp&theme=flat&column=9&margin-w=8" alt="logo" height="180" />
 
 
 # Skill
@@ -20,8 +20,9 @@
 ![Clickhouse](https://img.shields.io/badge/clickhouse-%23faff69.svg?style=for-the-badge&logo=clickhouse&logoColor=black)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-<img align="" width="38.6%" src="https://github-readme-stats-fork-alpha.vercel.app/api/top-langs/?username=kuangcp&hide_title=false&hide_border=true&layout=compact&border_radius=0&title_color=41b883&icon_color=41b883&text_color=959598&bg_color=9ca3af00" />
+<img align="" width="38.6%" src="https://github-readme-stats-fork-alpha.vercel.app/api/top-langs/?username=kuangcp&hide_title=false&hide_border=true&layout=compact&border_radius=0&title_color=41b883&icon_color=41b883&text_color=959598&bg_color=9ca3af00&hide=javascript,html&langs_count=8" />
 
+[![wakatime](https://wakatime.com/badge/user/018e69f5-0372-4886-ae38-c01b8117713c.svg)](https://wakatime.com/@018e69f5-0372-4886-ae38-c01b8117713c)
 # Activity
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kuangcp&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)

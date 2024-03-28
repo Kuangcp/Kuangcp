@@ -1,6 +1,13 @@
 <img src="https://github-readme-stats.vercel.app/api?username=kuangcp&show_icons=true&theme=vue" alt="Kuangcp's github stats"  />
 <img src="https://github-profile-trophy.vercel.app/?username=kuangcp&theme=flat&column=9&margin-w=8" alt="logo" height="180" />
 
+<style type = “text/css”> 
+
+a:link {color: blue; text-decoration:none;}
+a:visited {color:purple;text-decoration:none;}
+a:hover {color: red; text-decoration:underline;}
+
+</style>
 
 # Skill
 <p align="left">

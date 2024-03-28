@@ -23,9 +23,8 @@
 
 <img align="" width="38.6%" src="https://github-readme-stats-fork-alpha.vercel.app/api/top-langs/?username=kuangcp&hide_title=false&hide_border=true&layout=compact&border_radius=0&title_color=41b883&icon_color=41b883&text_color=959598&bg_color=9ca3af00&hide=css,javascript,html&langs_count=8" />
 
-# Activity
+# Activity ![](https://profile-counter.glitch.me/Kuangcp/count.svg)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kuangcp&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![syhily](https://github-readme-streak-stats.herokuapp.com/?user=kuangcp&theme=dark)
-![](https://profile-counter.glitch.me/Kuangcp/count.svg)

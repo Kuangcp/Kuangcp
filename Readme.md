@@ -1,6 +1,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=kuangcp&show_icons=true&theme=vue" alt="Kuangcp's github stats"  />
 <img src="https://github-profile-trophy.vercel.app/?username=kuangcp&theme=flat&column=9&margin-w=8" alt="logo" height="180" />
-<img src="./metrics.plugin.achievements.compact.svg">
 
 # Skill
 <p align="left">
